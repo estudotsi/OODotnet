@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "y+lQB4Q28qCvKSMCo69educQgddD62EfK9KT1mgc4PibHsTRmrtXHFHDsy/Vhg/AkGjFOg2M8PWtI6owzxScUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rogerio.campos\\source\\repos\\C#OO\\C#OO\\C#OO.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://nuget.cg.df.gov.br/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
